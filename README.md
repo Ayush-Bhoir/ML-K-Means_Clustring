@@ -1,4 +1,4 @@
-# 🎓 Student Segmentation Using K-Means Clustering | Machine Learning Project
+🎓 Student Segmentation Using K-Means Clustering | Machine Learning Project
 
 📌 Summary<br>
 
